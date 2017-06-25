@@ -4,6 +4,7 @@ class Vercode{
 	public $function;
 	以上的方式
 	public $img;//画布
+		sdfjksldfjk
 	public $imgx=90;//画布的宽
 	public $imgy=30;//画布的高
 	public $fontsize=20;
