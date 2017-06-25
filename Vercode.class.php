@@ -1,5 +1,6 @@
 <?php
 class Vercode{
+	 大时是发生的 的算法
 	public $function;
 	以上的方式
 	public $img;//画布
