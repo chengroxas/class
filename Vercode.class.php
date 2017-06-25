@@ -1,6 +1,7 @@
 <?php
 class Vercode{
 	public $function;
+	以上的方式
 	public $img;//画布
 	public $imgx=90;//画布的宽
 	public $imgy=30;//画布的高
