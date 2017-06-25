@@ -1,5 +1,6 @@
 <?php
 class Vercode{
+	 大时是发生的 的算法
 	public $function;
 	public $img;//画布
 	public $imgx=90;//画布的宽
